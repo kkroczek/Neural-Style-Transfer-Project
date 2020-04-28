@@ -1,6 +1,6 @@
-## Neural-Style-Transfer-Project
+# Neural-Style-Transfer-Project
 
-Introduction
+## Introduction
 
 The main goal of this project was to exchange the VGG19 model from the original code with the model of our own creation. 
 
