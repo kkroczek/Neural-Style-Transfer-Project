@@ -13,7 +13,7 @@ Few words about Neural Style Tranfer
 
 Examples of use NST
 
-Our Model
+## Our Model
 Layer: Conv2D 
 Output Shape: (None, 48, 48, 16)  
 Param: 448
