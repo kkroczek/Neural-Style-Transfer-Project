@@ -16,6 +16,7 @@ The main goal of this project was to exchange the VGG19 model from the original 
 ## Examples of use NST
 - fashion design
 - architecture
+- getting to know more about algorithms
 - for fun :)
 
 ## Our Model
