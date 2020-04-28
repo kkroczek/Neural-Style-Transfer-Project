@@ -56,7 +56,9 @@ Output Shape: (None, 1)
 Param: 65
 
 Total params: 67,985
+
 Trainable params: 67,985
+
 Non-Trainable params: 0
 
 ## How to use our project?
