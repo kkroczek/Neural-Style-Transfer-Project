@@ -11,7 +11,7 @@ Few words about Neural Style Tranfer
 ## Algorithm takes style from "Style Image" given by us and applies it to the "Content Image".
 ![image](https://sandipanweb.files.wordpress.com/2018/01/louvre_generated.png?w=676)
 
-Examples of use NST
+## Examples of use NST
 
 ## Our Model
 Layer: Conv2D 
