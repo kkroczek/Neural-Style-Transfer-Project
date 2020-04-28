@@ -14,6 +14,9 @@ Few words about Neural Style Tranfer
 ![image](https://cdn-images-1.medium.com/max/1600/0*F3xvwBKFhaQ3Mh_k)
 
 ## Examples of use NST
+- fashion design
+- architecture
+- for fun :)
 
 ## Our Model
 Layer: Conv2D 
