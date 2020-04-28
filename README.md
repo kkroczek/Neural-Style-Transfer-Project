@@ -59,4 +59,8 @@ Total params: 67,985
 Trainable params: 67,985
 Non-Trainable params: 0
 
+## How to use our project?
+First of all you have to download NST_model.h5 file and save it in your computer.
+Then obviously you need to copy code from (...) file and run it with the use of our model.
+
 ## Our Achievements 
