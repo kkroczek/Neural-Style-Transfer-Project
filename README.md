@@ -1,4 +1,4 @@
-# Neural-Style-Transfer-Project
+# Neural Style Transfer Project
 
 ## <b>Introduction</b>
 
