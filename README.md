@@ -18,7 +18,7 @@ The main goal of this project was to exchange the VGG19 model from the original 
 - architecture
 - for fun :)
 
-## Our Model
+## Our Model Description
 Layer: Conv2D 
 Output Shape: (None, 48, 48, 16)  
 Param: 448
