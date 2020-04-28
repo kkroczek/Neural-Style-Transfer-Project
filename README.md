@@ -4,7 +4,7 @@
 
 The main goal of this project was to exchange the VGG19 model from the original code with the model of our own creation. 
 
-## Few words about Neural Style Tranfer 
+## Few words about Neural Style Transfer 
 
 "Neural Style Transfer (NST) refers to a class of software algorithms that manipulate digital images, or videos, to adopt the appearance or visual style of another image. NST algorithms are characterized by their use of deep neural networks in order to perform the image transformation. Common uses for NST are the creation of artificial artwork from photographs, for example by transferring the appearance of famous paintings to user supplied photographs. Several notable mobile apps use NST techniques for this purpose, including DeepArt and Prisma."
 
