@@ -3,7 +3,7 @@
 ## <b>Introduction</b>
 
 The main goal of this project was to exchange the VGG19 model from the original code with the model of our own creation. 
-Originally, code taken from book "Deep Learning with Python" by Francois Chollet.
+- Originally, code taken from book "Deep Learning with Python" by Francois Chollet.
 
 ## Few words about Neural Style Transfer 
 
